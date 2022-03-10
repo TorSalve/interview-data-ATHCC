@@ -28,7 +28,7 @@ If you are interested, you can take a look at these additional resources:
 
 We investigate the relation between mid-air haptic stimuli and user experience by using an ultrasonic haptic device.
 Due to the large design space of stimuli the ultrasonic haptic device can produce, we have to limit our investigation to a set of stimulation parameters.
-Here we describe the design space and explain the set of parameters included in our studies.
+Here we describe the design space and explain the set of parameters included in our study.
 
 Each stimulus induced by ultrasonic mid-air haptic devices consists of a set of primary and secondary parameters.
 The primary parameters are the focal point intensity and position.
@@ -38,7 +38,7 @@ The focal point position can be modulated by emitting ultrasound from an array o
 Both the amplitude and the focal point can also be modulated over time.
 This brings us to a set of secondary parameters. For example, we can vary the frequency of the wave amplitude (how often the wave reaches its full amplitude) or the sequence and tempo in which the focal point is set onto a number of positions.
 
-In our studies, we focus on three parameters: amplitude frequency, spatial pattern, and the number of repetitions.
+In our study, we focus on three parameters: amplitude frequency, spatial pattern, and the number of repetitions.
 With these parameters, we can build stimuli that have the potential to trigger diverse accusations and experiences.
 The parameter settings presented reflect the current common use of mid-air haptic technology, such as feedback for button-presses and interaction with virtual objects [^3]).
 Additionally, these parameters are used most often in previous work.
@@ -71,7 +71,7 @@ The repetitions were chosen to represent a stimulus that is constantly on (when 
 
 ## Selected Stimuli
 
-In a previous study we found five candidate stimulations for further investigation. These stimuli have the following parameters:
+In a previous study we found five candidate stimulati interesting for further investigation. These stimuli have the following parameters:
 | # | Frequency | Pattern | Repetitions |
 |---|----------:|:-------:|------------:|
 | 1 |    250 Hz |  Random |           8 |
@@ -165,7 +165,7 @@ The repositiory contains three important bits of data: ``en``, ``en-split``, and
 
 The ``en`` directory contains a set of Microsoft Word files named after the participant (e.g., "Brahe.docx"). The documents are a bit messy, but generally have the same structure. You will for instance see that an interview block starts with a title formatted in italics: "Stimulus: [*frequency*, *pattern*, *repetitions*]". You do not need to care about text marked in green, but you should look out for the yellow markings, as they are placed by the transcriptor, indicating audio problems, unclear language, and the like.
 
-The ``en-split`` directory contains the same data as the ``en`` directory, but split into several files. This makes reading the data with for instance Python easier. The directory contains several subdirecties named after the participants (e.g., "Turing"). Each of the subdirectory contains five text files containing the interview data, named after the stimulus (e.g., "Circle_125_8.txt"). You should look out for text within angled brackets ("[...]"), as they contain markings by the transcriptor, indicating audio problems, unclear language, and the like.
+The ``en-split`` directory contains the same data as the ``en`` directory, but split into several files. This makes reading the data with for instance Python easier. The directory contains several subdirecties named after the participants (e.g., "Turing"). Each of the subdirectory contains five text files containing the interview data, named after the stimulus (e.g., "Circle_125_8.txt"). You should look out for text within angled brackets ("[...]"), as they contain markings by the transcriptor, indicating audio problems, unclear language, and the like. Each line in the text document is preceded by an "I." (interviewer) or "R." (respondent) indicating the person speaking.
 
 The ``participants.csv`` file contains basic demographics on the participants.
 

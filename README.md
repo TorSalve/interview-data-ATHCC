@@ -49,7 +49,9 @@ The peak sensitivities of these receptors are around 16 Hz an 250 Hz respectivel
 A 125 Hz amplitude frequency has the potential to stimulate both sets of receptors, as the activation range of the receptors overlap [^5],[^6].
 Additionally, a 125 Hz frequency amplitude modulation was used in the experiments by Rutten et al. [^1].
 
-![Spatiotemporal patterns used to stimulate participants: (a) Point pattern; (b) Random pattern; (c) Circular pattern; (d) Brush pattern. Red marks a focal point position, while blue describes the spatiotemporal path of the focal point.](./figures/all-hands-on-deck.png "Spatiotemporal patterns")
+![Spatiotemporal patterns used to stimulate participants: (a) Point pattern; (b) Random pattern; (c) Circular pattern; (d) Brush pattern. Red marks a focal point position, while blue describes the spatiotemporal path of the focal point.](./figures/all-hands-on-deck.jpg "Spatiotemporal patterns")
+
+*21.03.23: Updated figure, to match caption and text*
 
 We modulate the position in four different _patterns_. The patterns are inspired by the work of [^1] and [^8].
 The figure above shows the patterns.
@@ -72,13 +74,13 @@ The repetitions were chosen to represent a stimulus that is constantly on (when 
 ## Selected Stimuli
 
 In a previous study we found five candidate stimulati interesting for further investigation. These stimuli have the following parameters:
-| # | Frequency | Pattern | Repetitions |
-|---|----------:|:-------:|------------:|
-| 1 |    250 Hz |  Random |           8 |
-| 2 |    125 Hz |  Circle |           8 |
-| 3 |     16 Hz |  Point  |           8 |
-| 4 |    250 Hz |  Point  |           1 |
-| 5 |    125 Hz |  Brush  |           1 |
+| #   | Frequency | Pattern | Repetitions |
+| --- | --------: | :-----: | ----------: |
+| 1   |    250 Hz | Random  |           8 |
+| 2   |    125 Hz | Circle  |           8 |
+| 3   |     16 Hz |  Point  |           8 |
+| 4   |    250 Hz |  Point  |           1 |
+| 5   |    125 Hz |  Brush  |           1 |
 
 
 ## Method

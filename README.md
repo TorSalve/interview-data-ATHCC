@@ -51,7 +51,7 @@ Additionally, a 125 Hz frequency amplitude modulation was used in the experiment
 
 ![Spatiotemporal patterns used to stimulate participants: (a) Point pattern; (b) Random pattern; (c) Circular pattern; (d) Brush pattern. Red marks a focal point position, while blue describes the spatiotemporal path of the focal point.](./figures/all-hands-on-deck.jpg "Spatiotemporal patterns")
 
-*21.03.23: Updated figure, to match caption and text*
+*21.03.23: Updated figure to match caption and text*
 
 We modulate the position in four different _patterns_. The patterns are inspired by the work of [^1] and [^8].
 The figure above shows the patterns.
